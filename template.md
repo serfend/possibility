@@ -1,13 +1,19 @@
 ## 1. Description
 
+> here insert  the description of this posibility
+
 > 当需要办理临时身份证时，可以使用12306自带功能
 
 ## 2. Notice
+
+> here insert notice things
 
 - 该证件有效期为24小时
 - 每个月最多办理3次
 
 ##3. Steps
+
+> here insert some step or graph
 
 ```mermaid
 graph TB
@@ -48,3 +54,5 @@ graph TB
 
 
 ## 4. Points
+
+> here insert `posibility` or `points` on doing something
